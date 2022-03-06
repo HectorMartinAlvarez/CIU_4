@@ -9,7 +9,7 @@ Representación de un sistema planetario y simulación de una nave en Processing
 ## Desarrollo
 
 El proyecto ha sido desarrollado empleando 6 ficheros: 
-  - <b>CIU_4</b> </br><p>Fichero principal en el que se crean la estrella, los planetas y los satelites, se cargan las texturas de la estrella, los planetas, los satelites y el fondo, se implementan los eventos de teclado y ademas se implementan las 2 camaras distintan que se emplean en la aplicación haciendo uso de la camara integrada en el propio processing</p>
+  - <b>CIU_4</b> </br><p>Fichero principal en el que se crean la estrella, los planetas y los satélites, se cargan las texturas de la estrella, los planetas, los satélites y el fondo, se implementan los eventos de teclado y ademas se implementan las 2 cámaras distintas que se emplean en la aplicación haciendo uso de la cámara integrada en el propio processing</p>
   - <b>AstronomicalObject</b> </br><p>Fichero que define una clase abstracta que representa cualquier objeto astronómico.</p>
   - <b>Star</b> </br><p>Fichero que define una clase que extiende de AstronomicalObject que representa una estrella y se utiliza para la creación de la estrella que se encuentra en el sistema solar.</p>
   - <b>Planet</b> </br><p>Fichero que define una clase que extiende de AstronomicalObject que representa un planeta y se utiliza para la creación de todos planetas del sistema solar.</p>
@@ -27,7 +27,7 @@ El proyecto ha sido desarrollado empleando 6 ficheros:
 |:---:|:----------|:-------------------------:|:---------------------:|:-----:|
 |W|Desplazarse hacia delante||X|X|
 |A|Desplazarse hacia la izquierda||X|X|
-|S|Desplazarse hacia atras||X|X|
+|S|Desplazarse hacia atrás||X|X|
 |D|Desplazarse hacia la derecha||X|X|
 |Q|Rotar hacia la derecha||X||
 |E|Rotar hacia la izquierda||X||
