@@ -35,7 +35,7 @@ El proyecto ha sido desarrollado empleando 6 ficheros:
 |Espacio|Ascender||X||
 |R|Restablecer posición||X||
 |C|Alternar entre Vista General/Modo Nave|X|X||
-|ESC|Cierra la Aplicación|X|X||
+|ESC|Cerrar la Aplicación|X|X||
 
 
 ## Herramientas
